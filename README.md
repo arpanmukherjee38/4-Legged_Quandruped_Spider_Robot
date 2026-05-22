@@ -11,6 +11,11 @@ A low-cost, 3D-printed quadruped spider robot built on Arduino Nano with 12 SG90
 
 ---
 
+## Demo
+
+<img width="3072" height="4096" alt="WhatsApp Image 2026-05-13 at 10 32 51 PM" src="https://github.com/user-attachments/assets/c6daea54-58db-48c1-bc28-4c5b78db135f" />
+
+
 ## 📋 Table of Contents
 
 - [Overview](#overview)
